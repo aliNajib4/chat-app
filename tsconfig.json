@@ -13,7 +13,8 @@
       "@pages/*": ["pages/*"],
       "@utils/*": ["utils/*"],
       "@types/*": ["types/*"],
-      "@store/*": ["store/*"]
+      "@store/*": ["store/*"],
+      "@fb": ["firebase"]
     }
   }
 }
